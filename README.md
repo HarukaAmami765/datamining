@@ -1,3 +1,5 @@
+**成績が保留になっている学生へ：2月21日(金)までにレポートを提出してください．その内容がよければ合格にします．提出は1回だけです．再提出はできません．提出先：`taro.yabuki+report@it-chiba.ac.jp`**
+
 # データマイニング入門
 
 * 実行環境：[RStudio Cloud](https://rstudio.cloud/)
@@ -89,3 +91,5 @@ system("wget https://raw.githubusercontent.com/taroyabuki/datamining/master/repo
 提出先：https://docs.google.com/forms/d/e/1FAIpQLSdRCfzjCFNvmru0s86QSdvbzyDOZYCzbBzRL5dxP9sz7IRKAw/viewform
 
 締切：2月3日（月）24:00 **この時間まで，1回目のレポートも提出できるようにしておきます．**
+
+**成績が保留になっている学生へ：2月21日(金)までにレポートを提出してください．その内容がよければ合格にします．提出は1回だけです．再提出はできません．提出先：`taro.yabuki+report@it-chiba.ac.jp`**
